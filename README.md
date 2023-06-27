@@ -1,6 +1,7 @@
 # AuditaSecurity 
-Audita is a security collective of long-term industry experts. We leverage years of building and security knowledge to provide a safety net against hacker attacks. 
-Working hard to find as many critical/high issues as possible, each vulnerabuility comes with a complete testing of the exploit executed by our experts. 
+Audita is a security collective of long-term industry experts. 
+We leverage years of building and security knowledge to provide a safety net against hacker attacks. 
+Working to find as many critical/high issues as possible, each vulnerabuility comes with a complete testing of the exploit executed by the dedicated team. 
 
 ## Solutions 🔎
 EVM-focused Solidity experts, emphasizing on: 
@@ -15,7 +16,7 @@ EVM-focused Solidity experts, emphasizing on:
 - Consulting and Advisory
 
 ## Team 🤝
-We are collaborating with some of the best auditors in the space, solving the several solo auditors vs audit firm dilemma, which allows us to provide a diversified deliverable. Our experts have been building since the first smart contract went live and have created some of the most complicated money mechnisms on-chain. 
+We are collaborating with some of the best auditors in the space, solving the solo auditors vs audit firm dilemma, working with some of the best experts in the space. Building since the first smart contract went live, they've participated in the creation of highly complex and robust protocols across different chains.   
 
 ## Values 🌟
-We are ethical, dynamic and innovative in our approach. Collaboration with the client dev team is highly important, as every project is unique. In order to provide the highest value, we understand the intricate aspects of the business and explore custom attack vectors.
+We are ethical, dynamic and innovative in our approach. Collaboration with the client dev team is essential, as every project is unique. In order to provide the highest value, we understand the intricate aspects of the business and explore custom attack vectors.
