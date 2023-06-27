@@ -4,7 +4,7 @@ Working hard to find as many critical/high issues as possible, each vulnerabuili
 
 ## Solutions 🔎
 EVM-focused Solidity experts, emphasizing on: 
-- All-round smart contract security
+- Smart contract security
   - Token Issuance and Tokenomic models
   - DeFi protocols and Money Markets
   - NFT contracts and marketplaces
