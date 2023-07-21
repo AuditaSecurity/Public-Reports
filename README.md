@@ -1,7 +1,7 @@
 # AuditaSecurity 
 Audita is a security collective of long-term industry experts. 
 We leverage years of building and security knowledge to provide a safety net against hacker attacks. 
-Working to find as many critical/high issues as possible, each vulnerabuility comes with a complete testing of the exploit executed by the dedicated team. 
+Working to find as many critical/high issues as possible, each vulnerability comes with a complete testing of the exploit executed by the dedicated team. 
 
 ## Solutions 🔎
 EVM-focused Solidity experts, emphasizing on: 
