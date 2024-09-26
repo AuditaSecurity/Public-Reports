@@ -16,7 +16,7 @@ EVM-focused Solidity experts, emphasizing on:
 - Consulting and Advisory
 
 ## Team 🤝
-We are collaborating with some of the best auditors in the space - building since the first smart contract went live, they've participated in the creation of highly complex and robust protocols across different chains.   
+We are collaborating with some of the best auditors in the space - building since the first smart contract went live, they've participated in the creation and the security of highly complex and robust protocols across different chains.   
 
 ## Values 🌟
 We are ethical, dynamic and innovative in our approach. Collaboration with the client dev team is essential, as every project is unique. In order to provide the highest value, we understand the intricate aspects of the business and explore custom attack vectors.
